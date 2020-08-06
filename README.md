@@ -10,4 +10,5 @@ My Name is Dominik Bartsch
 - 📫 How to reach me: Currently best way is here
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Let me think about that ;)
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dominik-ba&show_icons=true)
